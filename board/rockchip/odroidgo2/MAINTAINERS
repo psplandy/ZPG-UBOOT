@@ -1,0 +1,6 @@
+ODROID-GO2
+M:      Joy Cho <joy.cho@hardkernel.com>
+S:      Maintained
+F:      board/rockchip/odroidgoa
+F:      include/configs/odroidgoa.h
+F:      configs/odroidgoa_defconfig
